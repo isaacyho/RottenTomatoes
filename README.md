@@ -19,6 +19,6 @@ I couldn't get the width of the storyboard layouts to scale up with the width of
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](anim_rotten_tomatoes.gif)
+![Video Walkthrough](RT-Wk1-walkthru.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
