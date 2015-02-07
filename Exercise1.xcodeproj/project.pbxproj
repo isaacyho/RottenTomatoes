@@ -53,7 +53,7 @@
 		EBBCBE291A85ADE3006A6004 /* ToDo */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ToDo; sourceTree = "<group>"; };
 		EBC469501A8693F0001000F3 /* MovieCVCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCVCell.swift; sourceTree = "<group>"; };
 		EBC469541A86B59C001000F3 /* warningTransp.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = warningTransp.gif; path = ../../../Downloads/warningTransp.gif; sourceTree = "<group>"; };
-		EBC469561A86B631001000F3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EBC469561A86B631001000F3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = Exercise1/README.md; sourceTree = "<group>"; };
 		EBC469581A86B9B9001000F3 /* RT-Wk1-walkthru.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "RT-Wk1-walkthru.gif"; path = "../../RT-Wk1-walkthru.gif"; sourceTree = "<group>"; };
 		EBC82F921A8575C600622845 /* MoviesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		EBC82F941A8575FF00622845 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +102,7 @@
 		EB805DA81A83193500423003 = {
 			isa = PBXGroup;
 			children = (
+				EBC469561A86B631001000F3 /* README.md */,
 				EB805DB31A83193500423003 /* Exercise1 */,
 				EB805DC91A83193500423003 /* Exercise1Tests */,
 				EB805DB21A83193500423003 /* Products */,
@@ -145,7 +146,6 @@
 		EB805DB41A83193500423003 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EBC469561A86B631001000F3 /* README.md */,
 				EB805DB51A83193500423003 /* Info.plist */,
 			);
 			name = "Supporting Files";
